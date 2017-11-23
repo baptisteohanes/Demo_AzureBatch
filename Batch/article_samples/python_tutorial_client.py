@@ -47,12 +47,12 @@ import common.helpers  # noqa
 # Update the Batch and Storage account credential strings below with the values
 # unique to your accounts. These are used when constructing connection strings
 # for the Batch and Storage client objects.
-_BATCH_ACCOUNT_NAME = ''
-_BATCH_ACCOUNT_KEY = ''
-_BATCH_ACCOUNT_URL = ''
+_BATCH_ACCOUNT_NAME = 'jagbatch'
+_BATCH_ACCOUNT_KEY = 'xLOgVFIiVyBPZM4Aode2EyHebJr8mEOzK6BtUKSrRTC7DE6zBPWobua6VoRr0WROZHM1oJzMLBPzUMGSrAAN1Q=='
+_BATCH_ACCOUNT_URL = 'https://jagbatch.westeurope.batch.azure.com'
 
-_STORAGE_ACCOUNT_NAME = ''
-_STORAGE_ACCOUNT_KEY = ''
+_STORAGE_ACCOUNT_NAME = 'jagbatch'
+_STORAGE_ACCOUNT_KEY = 'ytAiZPvQWaFUVmowgatw93PjAFdfzAPAIXl27CksVA80vUrxl4rD2NxJwHKFKbitfQUqViZ/XkUJ72oKo5oQeQ=='
 
 _POOL_ID = 'PythonTutorialPool'
 _POOL_NODE_COUNT = 1
